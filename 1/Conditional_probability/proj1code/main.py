@@ -1,21 +1,10 @@
-# Authors: Pranav Sankhe, Varun Shijo
-# UB CSE 574 Project 1
-# Referred extensively to the official documentation of libs
-# https://pandas.pydata.org/pandas-docs/
-# https://docs.scipy.org/doc/numpy-1.13.0/reference/
+# Author: Amit Kamat
 
 import numpy as np
 import pandas as pd
 from scipy.stats import multivariate_normal, norm
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-print("UBitName = pranavgi")
-print("personNumber = 50244956")
-
-print("UBitName = varunshi")
-print("personNumber = 50244968")
-
 
 # Switching to seaborn's pretty colors
 sns.set(color_codes=True)
