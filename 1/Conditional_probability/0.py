@@ -1,7 +1,4 @@
 # Author: Amit Kamat
-# Referred extensively to the official documentation of libs
-# https://pandas.pydata.org/pandas-docs/
-# https://docs.scipy.org/doc/numpy-1.13.0/reference/
 
 import pandas as pd
 import numpy as np
